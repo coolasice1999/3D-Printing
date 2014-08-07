@@ -1,0 +1,7 @@
+Settings
+
+PLA @ 205C
+.3mm layers
+2 shells
+2 top / 2 bottom layers
+25% infill
