@@ -1,10 +1,16 @@
 Small Voltage Regulator / Bench Power Supply
 ============================================
 
-An adjustable voltage regulator based on the LM317T. This is intendet to be used as a small bench supply
-when working with an arduino or similar low power projects.
+Adjustable bench supply / linear voltage regulator based on the LM317T IC. Circuit design is based on the  datasheet example. 
 
-The LM317T may supply ~1.5A but pulling that much current for long requires a large heatsink.
+
+The supply is intended to be used with low power projects but is capable of supplying a bit more current when required. I use one rail to power the microcontroller circuit and the other to supply 9V to the h-bridge of two small gear motors. I can pull upto 600mA @ 12V without the need for a fan but things get a bit hot after that.
+
+
+
+The output Voltage depends on main supply voltage. Try to keep your input voltage close to your max required output voltage since the extra is wasted as heat.
+* Input: 6VDC  Output (100mA load): 1,2V - 4,5V
+* Input: 12VDC Output (100mA load): 1,2V - 10,4V
 
 
 
@@ -13,12 +19,12 @@ The LM317T may supply ~1.5A but pulling that much current for long requires a la
 Parts per Power Rail
 ------------------------
 The following parts are required to build one power rail. Simply double every part for a dual rail supply.
-![example was not build with this image in mind....](https://github.com/KaiserSoft/3D-Printing/blob/master/Power%20Supply%20v1/grfx/board%20without%20case%202015-03-06.jpg?raw=true)
+![example was not build with this image in mind....](https://github.com/KaiserSoft/3D-Printing/blob/master/Power%20Supply%20v1/grfx/board%20without%20case%202015-03-06-50p.jpg?raw=true)
 
 
 * 1x LM317T
 * 1x 35V 100uF electrolytic capacitor
-* 1x 35V 1uf El electrolytic
+* 1x 35V 1uF electrolytic capacitor
 * 1x 50V 100nF (1uF) ceramic capacitor
 * 1x 220 Ohm 1/4W resistor
 * 3x 1N4004 diode (two should be enough, keep across  Vin and output pins)
