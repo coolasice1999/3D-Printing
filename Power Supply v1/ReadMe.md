@@ -8,10 +8,13 @@ The LM317T may supply ~1.5A but pulling that much current for long requires a la
 
 
 
-Parts for one power rail
-------------------------
 
-The following parts are required to build one rail. Simply double every part for a dual rail supply.
+
+Parts per Power Rail
+------------------------
+The following parts are required to build one power rail. Simply double every part for a dual rail supply.
+![example was not build with this image in mind....](https://github.com/KaiserSoft/3D-Printing/blob/master/Power%20Supply%20v1/grfx/board%20without%20case%202015-03-06.jpg?raw=true)
+
 
 * 1x LM317T
 * 1x 35V 100uF electrolytic capacitor
@@ -24,3 +27,8 @@ The following parts are required to build one rail. Simply double every part for
 * 1x 3mm LED
 * 1x Heatsink
 * 1x Silpad (between LM317T and heatsink)
+
+
+Case Assembly
+-------------
+The case is not done yet
