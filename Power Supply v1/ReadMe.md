@@ -32,7 +32,7 @@ The following parts are required to build one power rail. Simply double every pa
 * 1x 3mm LED
 * 1x Heatsink
 * 1x Silpad (between LM317T and heatsink)
-* 2x female Bananna connector with 4mm shaft (http://www.reichelt.de/Bananenstecker-Zwergstecker/BB-4-RT/3/index.html?ARTICLE=4896)
+* 2x female banana connectors with 4mm shaft (http://www.reichelt.de/Bananenstecker-Zwergstecker/BB-4-RT/3/index.html?ARTICLE=4896)
 
 
 Case Assembly
