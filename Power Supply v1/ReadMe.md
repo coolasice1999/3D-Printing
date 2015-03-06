@@ -1,6 +1,5 @@
-Small Voltage Regulator / Bench Power Supply
-============================================
-
+Bench Power Supply / Voltage Regulator
+======================================
 Adjustable bench supply / linear voltage regulator based on the LM317T IC. Circuit design is based on the  datasheet example. 
 
 
@@ -8,7 +7,7 @@ The supply is intended to be used with low power projects but is capable of supp
 
 
 
-The output Voltage depends on main supply voltage. Try to keep your input voltage close to your max required output voltage since the extra is wasted as heat.
+The output voltage depends on main supply voltage. Try to keep your input voltage close to your max required output voltage since the extra is wasted as heat.
 * Input: 6VDC  Output (100mA load): 1,2V - 4,5V
 * Input: 12VDC Output (100mA load): 1,2V - 10,4V
 
@@ -17,9 +16,9 @@ The output Voltage depends on main supply voltage. Try to keep your input voltag
 
 
 Parts per Power Rail
-------------------------
+--------------------
 The following parts are required to build one power rail. Simply double every part for a dual rail supply.
-![example was not build with this image in mind....](https://github.com/KaiserSoft/3D-Printing/blob/master/Power%20Supply%20v1/grfx/board%20without%20case%202015-03-06-50p.jpg?raw=true)
+![example was not build with this image in mind....](https://github.com/KaiserSoft/3D-Printing/blob/master/Power%20Supply%20v1/grfx/board%20in%20case%20-%20assembled%20-%20small.png?raw=true)
 
 
 * 1x LM317T
@@ -33,8 +32,12 @@ The following parts are required to build one power rail. Simply double every pa
 * 1x 3mm LED
 * 1x Heatsink
 * 1x Silpad (between LM317T and heatsink)
+* 2x female Bananna connector with 4mm shaft (http://www.reichelt.de/Bananenstecker-Zwergstecker/BB-4-RT/3/index.html?ARTICLE=4896)
 
 
 Case Assembly
 -------------
-The case is not done yet
+Print and use 4 x 3mm self tapping screws to secure the lid.
+
+* Box Lower v1.STL
+* Top Cover v1.STL
