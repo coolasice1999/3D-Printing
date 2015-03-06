@@ -1,5 +1,5 @@
-Small Voltage Regulator with two indepentent output rails
-=========================================================
+Small Voltage Regulator / Bench Power Supply
+============================================
 
 An adjustable voltage regulator based on the LM317T. This is intendet to be used as a small bench supply
 when working with an arduino or similar low power projects.
