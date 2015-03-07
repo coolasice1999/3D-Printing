@@ -27,6 +27,7 @@ The following parts are required to build one power rail. Simply double every pa
 
 
 * 1x LM317T
+* 1x Heatsink from an old PC power supply (optional but recommended)
 * 1x 35V 100uF electrolytic capacitor
 * 1x 35V 1uF electrolytic capacitor
 * 1x 50V 100nF (1uF) ceramic capacitor
