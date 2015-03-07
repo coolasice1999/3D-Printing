@@ -7,9 +7,14 @@ The supply is intended to be used with low power projects but is capable of supp
 
 
 
-The output voltage depends on main supply voltage. Try to keep your input voltage close to your max required output voltage since the extra is wasted as heat.
+The maximum output voltage of the LM317 is about 1.5V below the supplied input voltage. Try to keep your input voltage close to your required output voltage since the extra is wasted as heat.
+ 
 * Input: 6VDC  Output (100mA load): 1,2V - 4,5V
+* Input: 9VDC  Output (100mA load): 1,2V - 7,5V
 * Input: 12VDC Output (100mA load): 1,2V - 10,4V
+
+A 9V supply can deliver 5V to the micro controller circuit and up to 7,5V to other devices. Not having a large overhead on the input allows you to draw quite a bit of current without getting your heatsink hot.
+So pulling 1A@5V from a 9V input is more efficient then drawing the same from a 12V input.
 
 
 
