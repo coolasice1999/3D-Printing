@@ -29,7 +29,7 @@ Build Instructions
 
 I am using model MH1230A in this example. It connects directly to mains and can switch loads of up to 30 amps.
 
-+ Print +Lower v2.stl* and *Lid.stl* using 0,25mm layers, 20% 3D honeycomb infill, 1 outside shell, 2 top/bottom layers and a heated bed.
++ Print *Lower v2.stl* and *Lid.stl* using 0,25mm layers, 20% 3D honeycomb infill, 1 outside shell, 2 top/bottom layers and a heated bed.
 + Wire unit according to the wiring diagram that is included with your unit
 ![wiring example](https://github.com/KaiserSoft/3D-Printing/blob/master/Temperature%20Controller%20Box/grfx/plenty%20of%20room%20for%20wiring.png?raw=true)
 + Secure incoming cables with zip ties on the inside. This prevents any cables from being ripped out of the unit.
