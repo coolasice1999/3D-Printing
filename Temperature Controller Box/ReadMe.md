@@ -36,7 +36,7 @@ I am using model MH1230A in this example. It connects directly to mains and can 
 
 
 **Warning** This unit will disconnect whatever is connected to terminal 1. The output pin of your connected load may be hot if your country does not use keyed outlets. Germany does not, so I marked the location of the phase on my plug and check the outlet with a phase detector before connecting the unit.
-
+![complete unit from side](https://github.com/KaiserSoft/3D-Printing/blob/master/Temperature%20Controller%20Box/grfx/complete%20unit%20side%20-%20older%20v2.png?raw=true)
 
 
 
