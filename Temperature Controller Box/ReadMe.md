@@ -2,6 +2,8 @@ Enclosure for Digital Temperature Controller
 ============================================
 
 This is an enclosure for one of those cheap Chinese digital temperature control units sold on Amazon and eBay. These devices sell for about 20 Euro and are really good for controlling a heating or cooling unit.
+This device may be sold under the following models numbers, not all support the same functions. 
+STC-1000,  MH1210, MH1220, MH1230, WH7016, WH9002A, PT100
 ![example image of complete unit](https://github.com/KaiserSoft/3D-Printing/blob/master/Temperature%20Controller%20Box/grfx/complete%20unit%20front%20-%20older%20v2.png?raw=true) 
 ![example image of unit without cover](https://github.com/KaiserSoft/3D-Printing/blob/master/Temperature%20Controller%20Box/grfx/installed%20without%20cover.png?raw=true?raw=true)
 
@@ -11,7 +13,7 @@ I am not a trained electrician. The instructions below may be wrong or even dang
 
 Required Parts
 --------------
-+ 1x cheap Chinese temperature controller
++ 1x cheap Chinese temperature controller (MH1230A)
 + 1x 2,5mm² terminal block strip with 6 terminals
 + 220V cable
 + 1x fuse according to load. I used a 3A fuse here
