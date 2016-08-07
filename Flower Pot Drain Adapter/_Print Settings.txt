@@ -1,0 +1,5 @@
+preset 0,25 mm slow iracing
+4 perimeters
+4 solid layers
+35% infill
+infill every 1 layer
