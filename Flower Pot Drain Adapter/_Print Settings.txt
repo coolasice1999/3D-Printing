@@ -3,3 +3,9 @@ preset 0,25 mm slow iracing
 4 solid layers
 35% infill
 infill every 1 layer
+-- above needs more preimeters
+
+-- for plate v5
+printed solid at 50C plate and 195C for PLA
+* next time try 75% infill
+  10 perimiters and 10 top/bottom layers
