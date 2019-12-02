@@ -12,6 +12,6 @@ The M2 Adapter is mounted without the case to improve cooling performance. The f
 Each STL file contains a full set. The mounting blocks have been mirrored and oriented the correct way.
 They have been tested with PLA, 0.3mm layer, 15% infill, 3 solid top and bottom layers, 3 perimeters
 
-SolidWorks Models: 
-Alternative Source: https://www.thingiverse.com/thing:4015614
-License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+* License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+* SolidWorks Models: https://github.com/KaiserSoft/3D-Printing/tree/master/Dual%20M2%20%20or%202.5%20SSD%20Mounting%20Adapter
+* Alternative Source: https://www.thingiverse.com/thing:4015614
