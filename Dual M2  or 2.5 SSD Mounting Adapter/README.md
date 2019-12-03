@@ -1,7 +1,9 @@
-These M2 / SSD adapters make it possible to mount two M2 SSDs or two 2.5" SSDs in one 3.5" hard drive mounting bay.
-
-Please measure the height of your SSD before printing the dual SSD adapter as some SSDs are thicker.
-
+This is a parametric M.2 or SSD mounting bracket for 3.5" hard drive bays. The mounting bracket provides slots for 
+two devices. You may use openSCAD or the Cutomizer on Thingiverse to create a custom bracket for your hardware.    
+Common combinations may be found in the STL folder.
+    
+Thingiverse Customizer: https://www.thingiverse.com/apps/customizer/run?thing_id=4016733
+    
 The M2 Adapter is mounted without the case to improve cooling performance. The following adapter will fit "QNINE M.2 SSD Adapter to 2.5" SATA 3"
 
 * Amazon.de https://www.amazon.de/QNINE-basierter-Schl%C3%BCssel-Unterst%C3%BCtzung-Festplatte/dp/B07RGT79WQ?ref_=ast_bbp_dp
@@ -9,9 +11,12 @@ The M2 Adapter is mounted without the case to improve cooling performance. The f
 
     
 	
-Each STL file contains a full set. The mounting blocks have been mirrored and oriented the correct way.
-They have been tested with PLA, 0.3mm layer, 15% infill, 3 solid top and bottom layers, 3 perimeters
+The following printer settings have been used on my Prusa MK3S
+PLA, 0.3mm layer, 15% infill, 3 solid top and bottom layers and 3 perimeters
 
+
+* Support this design: https://paypal.me/MirkoKaiser2020
+* Source Repo: https://github.com/KaiserSoft/3D-Printing/tree/master/Dual%20M2%20%20or%202.5%20SSD%20Mounting%20Adapter
+* Alternative Download: https://www.thingiverse.com/thing:4015614
+* The "Solidworks" folder contains an older design with the same dimensions.
 * License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
-* SolidWorks Models: https://github.com/KaiserSoft/3D-Printing/tree/master/Dual%20M2%20%20or%202.5%20SSD%20Mounting%20Adapter
-* Alternative Source: https://www.thingiverse.com/thing:4015614
