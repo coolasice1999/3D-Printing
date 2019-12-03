@@ -1,3 +1,5 @@
+![Image of two M.2 mounted in bracket](https://raw.githubusercontent.com/KaiserSoft/3D-Printing/master/Dual%20M2%20%20or%202.5%20SSD%20Mounting%20Adapter/Images/m.2%20in%20bay-small.png)
+
 This is a parametric M.2 or SSD mounting bracket for 3.5" hard drive bays. The mounting bracket provides slots for 
 two devices. You may use openSCAD or the Cutomizer on Thingiverse to create a custom bracket for your hardware.    
 Common combinations may be found in the STL folder.
